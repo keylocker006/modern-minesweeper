@@ -73,8 +73,7 @@ sudo zypper install python3-tk
 
 
 
-📸 Screenshots
-![Alt Text](screenshots/minesweeper.png)
+
 🛠️ How to Play
 
 Choose your difficulty
