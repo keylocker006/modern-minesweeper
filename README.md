@@ -2,7 +2,7 @@
 
 A modern, polished version of the classic Minesweeper game built with Python and Tkinter.
 
-![Minesweeper Screenshot](minesweeper.png) <!-- Add your screenshot here -->
+![Minesweeper Screenshot](screenshots/minesweeper.png)
 
 ## ✨ Features
 
