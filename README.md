@@ -2,7 +2,7 @@
 
 A modern, polished version of the classic Minesweeper game built with Python and Tkinter.
 
-![Minesweeper Screenshot](screenshot.png) <!-- Add your screenshot here -->
+![Minesweeper Screenshot](minesweeper.png) <!-- Add your screenshot here -->
 
 ## ✨ Features
 
@@ -74,7 +74,7 @@ sudo zypper install python3-tk
 
 
 📸 Screenshots
-minesweeper.png
+![Alt Text](screenshots/minesweeper.png)
 🛠️ How to Play
 
 Choose your difficulty
